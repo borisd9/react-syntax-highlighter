@@ -5,7 +5,7 @@ export default {
         "padding": "15px 0.5em 0.5em 30px",
         "fontSize": "11px",
         "lineHeight": "16px",
-        "background": "#f6f6ae url(./school-book.png)",
+        "background": "#f6f6ae",
         "borderTop": "solid 2px #d2e8b9",
         "borderBottom": "solid 1px #d2e8b9",
         "color": "#3e5915"
